@@ -390,7 +390,7 @@ input[type="checkbox"]:checked + label {
     display: flex;
     justify-content: center; /* Centers the images */
     align-items: center;
-    gap: 30px; /* Adds space between images */
+    gap: 80px; /* Adds space between images */
     flex-wrap: wrap; /* Prevents images from shrinking too much */
 }
 
